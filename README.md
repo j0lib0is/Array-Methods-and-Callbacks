@@ -59,23 +59,23 @@ Using VSCode and Command Line:
 5. ✅ cd into your repo
 6. ✅ Open the terminal in your vs code and type `npm install`
 7. ✅ Next type `npm run test` in your terminal
-8. Complete your work making regular commits to main/ master your codegrade score will update each time you make a push.
+8. ✅ Complete your work making regular commits to main/ master your codegrade score will update each time you make a push.
 
 ### Task 2: Minimum Viable Product
 
-Find the file `index.js` and complete the tasks until all of your tests pass.
+✅ Find the file `index.js` and complete the tasks until all of your tests pass.
 
 You may want to use the [World Cup summary data](https://www.foxsports.com/soccer/fifa-world-cup/history) on Fox Sports to check your math as you go.
 
 ### Testing & Debugging
 
-Open a second terminal inside of your project by clicking on the split terminal icon
+✅ Open a second terminal inside of your project by clicking on the split terminal icon
 ![alt text](assets/split_terminal.png 'Split Terminal')
 
-Inside of your second terminal type `npm start`
+✅ Inside of your second terminal type `npm start`
 ![alt text](assets/npm_start.png 'type npm start')
 
-You will be running your tests in one terminal and debugging in the other. As you work on your code you should make use of `console.log` to check your progress and debug.
+✅ You will be running your tests in one terminal and debugging in the other. As you work on your code you should make use of `console.log` to check your progress and debug.
 ![alt text](assets/tests_debug_terminal_final.png 'your terminal should look like this')
 
 ### Task 3: Stretch Goals
@@ -84,7 +84,7 @@ After you have completed the requirements, create a new file called `stretch.js`
 
 See if you can complete one or more of the following challenges:
 
--   [ ] Create a function that takes country initials as a parameter and returns their total number of World Cup appearances.
+-   [x] Create a function that takes country initials as a parameter and returns their total number of World Cup appearances.
 -   [ ] Account for ties in your 'finals' data set
 -   [ ] Create a function that takes country initials as a parameter and determines how many goals that country has scored in World Cup games since 1930.
 -   [ ] Use `.map()` to format country names into `<h1>` HTML headers.
